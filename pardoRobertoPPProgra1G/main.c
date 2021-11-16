@@ -51,13 +51,13 @@ int main()
 
     char cadena[20] = "pepeelgrillo";
 
-    char primerCaracter = 'o';
+    char primerCaracter = 'e';
 
-    char segundoCaracter = 'i';
+    char segundoCaracter = 'o';
 
     printf("%s\n", cadena);
 
-    strcpy(cadena, cambiarCaracter(cadena, primerCaracter, segundoCaracter));
+    cambiarCaracter(cadena, primerCaracter, segundoCaracter);
 
     printf("%s\n", cadena);
 
@@ -80,7 +80,7 @@ int cambiarCaracter(char cadena[], char caracter1, char caracter2){
     int todoOk =0;
 
     if(cadena != NULL){
-        for(int i=0; i>strlen(cadena); i++){
+        for(int i=0; i<strlen(cadena); i++){
             if(cadena[i] == caracter1){
                 cadena[i]=caracter2;
             }
