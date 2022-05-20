@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1653014691 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\fecha.c
+	<stdio.h>
+	"fecha.h"
+
+1652415155 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pardo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"pardo.h"
+	"utn.h"
+
+1652414003 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pardo.h
+
+1652413817 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\utn.h
+
+1652920447 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pcolor.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pColor.h"
+
+1652920462 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pcolor.h
+
+1652924931 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pmarca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pMarca.h"
+	"utn.h"
+	"pardo.h"
+
+1652908031 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pmarca.h
+
+1653015212 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pservicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pTrabajo.h"
+	"pServicio.h"
+	"pAuto.h"
+	"pMarca.h"
+	"pColor.h"
+	"fecha.h"
+	"utn.h"
+	"pardo.h"
+
+1653077325 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pservicio.h
+	"pTrabajo.h"
+	"pServicio.h"
+	"pAuto.h"
+	"pMarca.h"
+	"pColor.h"
+	"fecha.h"
+	"utn.h"
+	"pardo.h"
+
+1652995687 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pauto...c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"pAuto.h"
+	"pMarca.h"
+	"pColor.h"
+	"utn.h"
+	"pardo.h"
+
+1652994272 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\pauto.h
+	"pMarca.h"
+	"pColor.h"
+
+1652746737 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1652927220 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pAuto.h"
+	"pMarca.h"
+	"pColor.h"
+	"pTrabajo.h"
+	"pServicio.h"
+	"fecha.h"
+	"utn.h"
+	"pardo.h"
+	"informes.h"
+
+1653014803 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\ptrabajo.h
+	<stdio.h>
+	"pServicio.h"
+	"fecha.h"
+	"pAuto.h"
+
+1652479854 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\fecha.h
+
+1653013809 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\ptrabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pTrabajo.h"
+	"pAuto.h"
+	"pMarca.h"
+	"pColor.h"
+	"pServicio.h"
+	"fecha.h"
+	"utn.h"
+	"pardo.h"
+
+1653077286 source:d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"informes.h"
+	"pAuto.h"
+	"pMarca.h"
+	"pColor.h"
+	"pTrabajo.h"
+	"pServicio.h"
+	"utn.h"
+	"pardo.h"
+
+1653014571 d:\utn\1er cuatri 2022\lab1\practica_parciales\parciallabo1practica03autos\informes.h
+	<stdio.h>
+	"pAuto.h"
+	"pMarca.h"
+	"pColor.h"
+	"pTrabajo.h"
+	"pServicio.h"
+	"utn.h"
+	"pardo.h"
+
